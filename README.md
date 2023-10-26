@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabriel-Becher
-- 👀 I’m interested in Creating games
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Creating games and Web Systems
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on logic only
 - 📫 How to reach me: only at github
 
